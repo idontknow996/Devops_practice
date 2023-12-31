@@ -1,1 +1,2 @@
-i dont understand git mergr WTF
+This is branchB's content.
+Different changes here.
