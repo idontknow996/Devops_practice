@@ -1,3 +1,0 @@
-fourth file in git
-let try to do test
-i remove and creating more conflcts
