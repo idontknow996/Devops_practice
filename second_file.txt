@@ -1,2 +1,2 @@
-This is branchB's content.
-Different changes here.
+This is branchA's content.
+Some changes here.
