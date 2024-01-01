@@ -1,3 +1,6 @@
 This is branchA's content.
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch2
 Some changes here.
